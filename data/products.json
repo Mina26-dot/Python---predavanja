@@ -1,5 +1,29 @@
 [
   {
+    "name" : "Book",
+    "price" : 3654,
+    "amount": 12
 
+  },
+  {
+    "name" : "Milk",
+    "price" : 324,
+    "amount": 13
+
+  },
+  {
+    "name" : "Bread",
+    "price": 123,
+    "amount": 14
+  },
+  {
+    "name" : "Coca Cola",
+    "price" : 130,
+    "amount": 17
+  },
+  {
+    "name" : "Fanta",
+    "price" : 100,
+    "amount": 20
   }
 ]
