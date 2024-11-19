@@ -1,0 +1,9 @@
+
+  {
+    "id" : 1,
+    "name": "Mina",
+    "age": 31,
+    "budget" : 50000,
+    "credit" : 33000,
+    "currency" : "eur"
+  }

@@ -1,0 +1,6 @@
+Amount: 5000, User: 1, Budget: 83000, Preostali budzet: 78000
+Amount: 2000, User: 1, Budget: 83000, Preostali budzet: 81000
+Amount: 1000, User: 1, Budget: 83000, Preostali budzet: 82000
+Amount: 500, User: 1, Budget: 83000, Preostali budzet: 82500
+Amount: 10000, User: 1, Budget: 83000, Preostali budzet: 73000, DateTime: 2024-11-19
+Amount: 200, User: 1, Budget: 83000, Preostali budzet: 82800, DateTime: 2024-11-19 09:43:03.498129
