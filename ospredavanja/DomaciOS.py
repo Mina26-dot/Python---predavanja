@@ -29,3 +29,4 @@ print(f"Number of threads in current process: {num_threads}")
          #-> koje su razlike? koji je najbolji
 
 
+

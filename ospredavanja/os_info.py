@@ -16,3 +16,5 @@ print(f"{memory_gigabytes:.2f}")
 #-> 32.681 (mb) / 1024 = 31.915 (gb) = > gigabytes
 
 
+
+

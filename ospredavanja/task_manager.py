@@ -32,3 +32,6 @@ print(f"{'Name' :<25}{'Memory(%)' :<10}{'CPU(%)' :<10}")
 for proc in processes:
     print(f"{proc.name() :<25}{proc.memory_percent():<10.2f}{proc.cpu_percent():<10}.")
 
+
+
+

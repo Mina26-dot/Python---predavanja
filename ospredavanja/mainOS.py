@@ -20,3 +20,4 @@ if version != 3:
     print("Ne koristite dobru verziju pajtona")
 else:
     print("Imate dobru verziju pajtona.")
+
