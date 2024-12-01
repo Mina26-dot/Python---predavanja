@@ -6,5 +6,6 @@ def get_connection():
         user="root",
         password="kursIT_Obuka",
         database="python"
+
     )
 

@@ -1,6 +1,6 @@
 import mysql.connector
 from mysql.connector import connection
-from pythonProject.database.connection import execute_query, get_connection
+from pythonProject.database.connection import get_connection
 from pythonProject.database import connection
 
 def execute_query(table_name, query, params=None, fetch=False):
