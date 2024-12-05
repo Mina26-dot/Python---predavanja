@@ -6,7 +6,6 @@ connection = pymysql.connect(
     password="kursIT_Obuka",
     database="librarypy",
     cursorclass=pymysql.cursors.DictCursor
-
 )
 
 if connection.open:

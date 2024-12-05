@@ -26,10 +26,6 @@ class Users:
         params = (ime, dob)
         execute_query(self.table_name, query, params)
 
-
-
-
-
 # user_table = Users("korisnici")
 # user_table.create_table()
 

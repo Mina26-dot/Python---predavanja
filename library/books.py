@@ -1,11 +1,7 @@
 from datetime import datetime
 from random import random
-
 from pythonProject.library.connection import select_database
 from query_executor import execute_query
-
-
-
 
 class Books:
 

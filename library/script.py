@@ -89,8 +89,6 @@ def delete_book_by_ID(con,book_id):
     con.commit()
     cursor.close()
 
-# insert_book_and_author(connection)
-
 choice = None
 
 while choice is None:
@@ -126,27 +124,3 @@ while choice is None:
     else:
         choice = None
 
-# books = get_all_books(connection)
-#
-# for book in books:
-#     print(book)
-
-
-
-# insert(connection, "una unic", "12.3.1997.")
-# insert_book(connection, "Neka knjiga", "Nesto", "Janko Janic")
-
-
-# generate_book_title(connection)
-
-
-
-
-# domaci
-# generate_author -> faker.name()
-# generate_book_title -> ? -> ime knjige
-
-# -> generisi ime auotra
-# -> generisi ime knjige
-# -> insertuj knjigu
-# -> insertuj autora (usera)
