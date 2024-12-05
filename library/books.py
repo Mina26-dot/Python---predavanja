@@ -1,8 +1,14 @@
+from datetime import datetime
+from random import random
+
 from pythonProject.library.connection import select_database
 from query_executor import execute_query
 
 
+
+
 class Books:
+
     def __init__(self, table_name):
         self.table_name = table_name
 
@@ -26,8 +32,8 @@ class Books:
         execute_query(self.table_name, query, params)
 
 
-user_table = Books("knjige")
-user_table.create_table()
+# user_table = Books("knjige")
+# user_table.create_table()
 
 
 

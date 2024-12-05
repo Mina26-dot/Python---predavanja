@@ -4,7 +4,9 @@ connection = pymysql.connect(
     host="localhost",
     user="root",
     password="kursIT_Obuka",
-    database="librarypy"
+    database="librarypy",
+    cursorclass=pymysql.cursors.DictCursor
+
 )
 
 if connection.open:
